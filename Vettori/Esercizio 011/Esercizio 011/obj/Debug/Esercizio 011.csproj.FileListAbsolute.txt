@@ -1,0 +1,6 @@
+/Users/raffaelevitale/Scuola/Informatica 3 Anno/Maggiore/Console/Esercizio 011/Esercizio 011/bin/Debug/Esercizio_011.exe
+/Users/raffaelevitale/Scuola/Informatica 3 Anno/Maggiore/Console/Esercizio 011/Esercizio 011/bin/Debug/Esercizio_011.pdb
+/Users/raffaelevitale/Scuola/Informatica 3 Anno/Maggiore/Console/Esercizio 011/Esercizio 011/obj/Debug/Esercizio 011.csproj.AssemblyReference.cache
+/Users/raffaelevitale/Scuola/Informatica 3 Anno/Maggiore/Console/Esercizio 011/Esercizio 011/obj/Debug/Esercizio 011.csproj.CoreCompileInputs.cache
+/Users/raffaelevitale/Scuola/Informatica 3 Anno/Maggiore/Console/Esercizio 011/Esercizio 011/obj/Debug/Esercizio_011.exe
+/Users/raffaelevitale/Scuola/Informatica 3 Anno/Maggiore/Console/Esercizio 011/Esercizio 011/obj/Debug/Esercizio_011.pdb

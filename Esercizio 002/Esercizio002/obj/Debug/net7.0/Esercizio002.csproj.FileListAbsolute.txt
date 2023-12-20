@@ -1,0 +1,15 @@
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/bin/Debug/net7.0/Esercizio002
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/bin/Debug/net7.0/Esercizio002.deps.json
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/bin/Debug/net7.0/Esercizio002.runtimeconfig.json
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/bin/Debug/net7.0/Esercizio002.dll
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/bin/Debug/net7.0/Esercizio002.pdb
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.csproj.AssemblyReference.cache
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.AssemblyInfoInputs.cache
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.AssemblyInfo.cs
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.csproj.CoreCompileInputs.cache
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.dll
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/refint/Esercizio002.dll
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.pdb
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/Esercizio002.genruntimeconfig.cache
+/Users/raffaelevitale/Scuola/Informatica/Esercizio002/Esercizio002/obj/Debug/net7.0/ref/Esercizio002.dll
